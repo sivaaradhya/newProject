@@ -2,3 +2,4 @@ baseUrl=https://demo.guru99.com/V4/index.php
 userName=mngr412387
 password=myvYvyr
 chromePath=./drivers\\chromedriver.exe
+chromePath=./drivers\\chromedriver.exe
