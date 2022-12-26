@@ -5,6 +5,7 @@
     <classes>
       <class name="test.testCase">
         <methods>
+          <include name="test1"/>
           <include name="setup"/>
           <include name="destory"/>
           <include name="loginTestWithVaildCredentials"/>
